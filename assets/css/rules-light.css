@@ -121,7 +121,7 @@ p {
     text-align: center;
     display: flex;
     flex-direction: column;
-    background-image: url(/background-light.png);
+    background-image: url(../background-light.png);
     background-repeat: repeat;
     background-position: center;
     background-size: cover;

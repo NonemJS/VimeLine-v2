@@ -203,7 +203,7 @@ p {
 .btn-toggle {
     width: 30px;
     height: 30px;
-  background-image: url(/assets/img/light.png);
+  background-image: url(../assets/img/light.png);
   background-color: transparent;
   background-position: center;
   background-repeat: no-repeat;
@@ -215,7 +215,7 @@ p {
 .btn-toggle2 {
     width: 20px;
     height: 20px;
-  background-image: url(/assets/img/light.png);
+  background-image: url(../assets/img/light.png);
   background-color: transparent;
   background-position: center;
   background-repeat: no-repeat;

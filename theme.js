@@ -21,12 +21,12 @@ const theme2 = document.querySelector("#theme-link");
 // Отслеживаем щелчок по кнопке
 btn2.addEventListener("click", function() {
   // Если текущий адрес содержит "light-theme.css"
-  if (theme2.getAttribute("href") == "assets/css/rules-light.css") {
+  if (theme2.getAttribute("href") == "assets/css/light.css") {
     // …то переключаемся на "dark-theme.css"
-    theme2.href = "assets/css/rules.css";
+    theme2.href = "assets/css/style.css";
     // В противном случае… 
   } else {
     // …переключаемся на "light-theme.css"
-    theme2.href = "assets/css/rules-light.css";
+    theme2.href = "assets/css/light.css";
   }
 });

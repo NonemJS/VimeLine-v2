@@ -206,7 +206,7 @@ p {
 .btn-toggle {
     width: 30px;
     height: 30px;
-  background-image: url(../assets/img/dark.png);
+  background-image: url("../../assets/img/dark.png");
   background-color: transparent;
   background-position: center;
   background-repeat: no-repeat;
@@ -219,7 +219,7 @@ p {
 .btn-toggle2 {
     width: 20px;
     height: 20px;
-  background-image: url(../assets/img/dark.png);
+  background-image: url("../../assets/img/dark.png");
   background-color: transparent;
   background-position: center;
   background-repeat: no-repeat;
